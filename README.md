@@ -6,6 +6,13 @@ DIY Digital Multi-FX Guitar Pedal built with an ESP32S3 microcontroller
   <img width="50%" height="50%" alt="thunderstruck_img1" src="https://github.com/user-attachments/assets/962fa53d-a96f-4c10-a87c-0c972796a183" />
 </p>
 
+This is a project I built for the Milstein Program in Technology and Humanity Summer Program at Cornell Tech in NYC. I am a guitarist and love playing with guitar effects. I always wanted to create my own guitar pedal, especially a MultiFX one. Using the resources at Cornell Tech
+
+## Video Demos
+
+[![Video Title](https://img.youtube.com/vi/W_J3h4WjY30/0.jpg)](https://www.youtube.com/watch?v=W_J3h4WjY30)
+
+
 
 
 List of Parts:
