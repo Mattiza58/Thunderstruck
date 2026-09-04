@@ -10,6 +10,7 @@ This is a project I built for the Milstein Program in Technology and Humanity Su
 
 ## Video Demos
 
+[![Video Title](https://img.youtube.com/vi/saWOzFNlsLM/0.jpg)](https://www.youtube.com/watch?v=saWOzFNlsLM)
 [![Video Title](https://img.youtube.com/vi/W_J3h4WjY30/0.jpg)](https://www.youtube.com/watch?v=W_J3h4WjY30)
 
 
